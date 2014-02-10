@@ -10,9 +10,11 @@
   <link rel="stylesheet" href="/css/foundation-icons.css">
   <script src="/js/vendor/custom.modernizr.js"></script>
   <style>
-    h1 a {
-      color:#333;
-      letter-spacing:-.07em;
+    header h1 a {
+      letter-spacing:-.05em;
+    }
+    ul.meetings {
+      margin:0;
     }
     ul.meetings li {
       list-style:none;
@@ -21,27 +23,46 @@
     nav {
       margin-top:2em;
     }
+    header {
+      background:#333;
+      height:90px;
+      margin-bottom:40px;
+    }
+    header h1 {
+      margin-top:10px;
+      margin-bottom:10px;
+    }
+    header a:link, header a:visited, header a:active {
+      color:#fff;
+      text-shadow: 1px 1px #000;
+    }
+    header a:hover {
+      color:#ccc;
+    }
+    p.join {
+      text-align:center;
+      margin:3em 0 2em 0;
+    }
   </style>
 </head>
 <body>
 
-
-  <div class="row">
-    <div class="large-6 columns">
-      <h1><a href="/">Code-People.</a></h1>
+  <header>
+    <div class="row">
+      <div class="large-6 columns">
+        <h1><a href="/">Code-People.</a></h1>
+      </div>
+      <div class="large-6 columns">
+        <nav>
+          <ul class="inline-list right">
+            <li class="active"><a href="/">Home</a></li>
+            <li><a href="/meetings/">Meetings</a></li>
+            <li><a href="/about/">About</a></li>
+          </ul>
+        </nav>
+      </div>
     </div>
-    <div class="large-6 columns">
-      <nav>
-        <ul class="inline-list">
-          <li class="active"><a href="/">Home</a></li>
-          <li><a href="/meetings/">Meetings</a></li>
-          <li><a href="/about/">About</a></li>
-        </ul>
-      </nav>
-    </div>
-  </div>
-
-  <hr />
+  </header>
 
   <div class="row">
     <div class="large-8 columns">
