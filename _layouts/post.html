@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="large-8 columns">
+  <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+
+  <p>{{ page.date | date: "%B %-d, %Y at %l:%M" }}</p>
+
+  {% if page.recording_url %}
+  <p><a href="{{ page.recording_url }}" class="button"><i class="fi-play-video"></i> Watch the recorded session</a></p>
+  {% endif %}
+
+  {{ content }}
+</div>
+
+{% if page.presentation_links %}
+<div class="large-4 columns">
+  <h3>Presentation links</h3>
+  <ul>
+  {% for link in page.presentation_links %}
+    <li><a href="{{ link.href }}">{{ link.text }}</a></li>
+  {% endfor %}
+  </ul>
+</div>
+{% endif %}

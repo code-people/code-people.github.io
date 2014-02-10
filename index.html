@@ -1,0 +1,44 @@
+---
+layout: default
+title: Code-People at the University of Minnesota
+---
+
+<div class="large-12 columns">
+  <h4 class="subheader">We are an open network of <a href="www.umn.edu">University of Minnesota</a> application developers looking to further our programming skills & capacity to innovate by meeting monthly to share tools & tricks of the trade via presentations, workshops, and facilitated discussions.</h4>
+  <p style="text-align:center;margin:3em 0 1em 0;">
+    <a href="#" class="large button success radius">
+      Join the Google Group
+    </a>
+  </p>
+  <!--<p>Dolor perspiciatis hic blanditiis tenetur recusandae animi quaerat reiciendis. Est delectus eveniet in saepe labore. Assumenda asperiores enim obcaecati tempore quidem excepturi ducimus fugit blanditiis, ipsam quisquam tenetur, quidem repudiandae.</p>-->
+</div>
+
+<div class="large-6 columns">
+  <h3>Upcoming meetings</h3>
+  <ul class="meetings">
+    {% for post in site.categories.upcoming %}
+      <li><strong><a href="{{ post.url }}">
+        {% if post.presenters %}
+          &ldquo;{{ post.title }}&rdquo; with {{ post.presenters }}
+        {% else %}
+          {{ post.title }}
+        {% endif %}
+      </a></strong><br />{{ post.date | date: "%B %-d, %Y" }}</li>
+    {% endfor %}
+  </ul>
+</div>
+<div class="large-6 columns">
+  <h3>Recent meetings</h3>
+  <ul class="meetings">
+    {% for post in site.categories.meetings %}
+      <li><strong><a href="{{ post.url }}">
+        {% if post.presenters %}
+          &ldquo;{{ post.title }}&rdquo; with {{ post.presenters }}
+        {% else %}
+          {{ post.title }}
+        {% endif %}
+      </a></strong><br />{{ post.date | date: "%B %-d, %Y" }}</li>
+    {% endfor %}
+  </ul>
+</div>
+

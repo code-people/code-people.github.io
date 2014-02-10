@@ -1,0 +1,15 @@
+name: code-people
+markdown: maruku
+pygments: true
+future: true # allow posts in the future (used for upcoming meetings)
+navigation:
+- text: Home
+  url: /index.html
+- text: Meetings
+  url: /meetings/index.html
+- text: Get involved
+  url: /get-involved.html
+- text: Committee
+  url: /committee.html
+- text: About
+  url: /about.html

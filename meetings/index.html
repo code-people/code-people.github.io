@@ -1,0 +1,14 @@
+---
+layout: default
+title: Meetings
+---
+
+<div class="large-12 columns">
+  <h2>Meetings</h2>
+
+  <ul class="meetings">
+    {% for post in site.posts %}
+    <li><strong><a href="{{ post.url }}">&ldquo;{{ post.title }}&rdquo;{% if post.presenters %} with {{ post.presenters }}{% endif %}</a></strong><br />{{ post.date | date: "%B %-d, %Y" }}</li>
+    {% endfor %}
+  </ul>
+</div>
