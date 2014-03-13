@@ -2,7 +2,7 @@
 layout: post
 title: Happy Hour
 date:   2013-01-09 04:00
-categories: upcoming
+categories: meetings
 ---
 
 Location\: [Republic](http://www.republicmn.com/)

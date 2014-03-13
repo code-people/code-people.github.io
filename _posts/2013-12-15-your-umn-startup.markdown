@@ -4,7 +4,7 @@ title: Your UMN Startup
 presenters: "Justin Porter and Chris Ghere"
 date:   2013-12-15 09:30:00
 recording_url: http://google.com/
-categories: upcoming
+categories: meetings
 ---
 
 Location\: [402 Walter Library](https://www.google.com/maps/preview#!q=Walter+Library%2C+Pleasant+Street+Southeast%2C+Minneapolis%2C+MN&data=!4m15!2m14!1m13!1s0x52b32d1432b86bc9%3A0x61ecfbc5c41c957c!3m8!1m3!1d6979671!2d-93.3612905!3d46.4418595!3m2!1i1436!2i952!4f13.1!4m2!3d44.9754336!4d-93.2362591) or via [UMConnect](https://umconnect.umn.edu/cpm)
