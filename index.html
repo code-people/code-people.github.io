@@ -10,13 +10,12 @@ title: Code-People at the University of Minnesota
       Join the Google Group
     </a>
   </p>
-  <!--<p>Dolor perspiciatis hic blanditiis tenetur recusandae animi quaerat reiciendis. Est delectus eveniet in saepe labore. Assumenda asperiores enim obcaecati tempore quidem excepturi ducimus fugit blanditiis, ipsam quisquam tenetur, quidem repudiandae.</p>-->
 </div>
 
 <div class="large-6 columns">
   <h3>Upcoming meetings</h3>
   <ul class="meetings">
-    {% for post in site.categories.upcoming %}
+    {% for post in site.categories.upcoming limit:5 %}
       <li><strong><a href="{{ post.url }}">
         {% if post.presenters %}
           &ldquo;{{ post.title }}&rdquo; with {{ post.presenters }}
@@ -30,7 +29,7 @@ title: Code-People at the University of Minnesota
 <div class="large-6 columns">
   <h3>Recent meetings</h3>
   <ul class="meetings">
-    {% for post in site.categories.meetings %}
+    {% for post in site.categories.meetings limit:5 %}
       <li><strong><a href="{{ post.url }}">
         {% if post.presenters %}
           &ldquo;{{ post.title }}&rdquo; with {{ post.presenters }}
@@ -40,5 +39,6 @@ title: Code-People at the University of Minnesota
       </a></strong><br />{{ post.date | date: "%B %-d, %Y" }}</li>
     {% endfor %}
   </ul>
+  <p><a href="/meetings">See all meetings</a>
 </div>
 
