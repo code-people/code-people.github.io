@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Practical Object-Oriented Design in Ruby
+title: Object Oriented Design
 presenters: Ian Whitney
 date:   2014-04-03 09:30
 categories: upcoming
@@ -8,13 +8,12 @@ categories: upcoming
 
 Location\: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
 
-## OO Ruby patterns
+## Object Oriented Design
 
-Ian Whitney is spending a week in Durhan, NC with [Sandi Metz](http://www.sandimetz.com/)
-learning how to build rock-solid, maintainable systems in Ruby and is willing
-to share his learnings with the community (hear that, dev-ops folks?). Sandi literally
-[wrote the book](http://www.informit.com/store/practical-object-oriented-design-in-ruby-an-agile-primer-9780321721334)
-on this subject, so prepare yourself for lots of useful knowledge nuggets!
+Ian Whitney will demonstrate (Live! On Stage!) OOD and refactoring techniques
+he recently learned from Sandi Metz and Katrina Owen. Learn how to avoid your
+own worst tendencies and design excellent code even when the requirements are
+unknown. And are requirements ever truly known?
 
 ## Web application security discussion
 
