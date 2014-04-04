@@ -1,5 +1,5 @@
 name: code-people
-markdown: maruku
+markdown: kramdown
 pygments: true
 future: true # allow posts in the future (used for upcoming meetings)
 navigation:
