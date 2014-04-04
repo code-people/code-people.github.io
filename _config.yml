@@ -2,6 +2,7 @@ name: code-people
 markdown: kramdown
 pygments: true
 future: true # allow posts in the future (used for upcoming meetings)
+exclude: ['vendor']
 navigation:
 - text: Home
   url: /index.html
