@@ -3,7 +3,13 @@ layout: post
 title: Object Oriented Design
 presenters: Ian Whitney
 date:   2014-04-03 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://umconnect.umn.edu/p23551863/
+presentation_links:
+ - text: Object Oriented Design presentation
+   href: https://github.com/IanWhitney/ood_presentation/
+ - text: Sample code and other examples
+   href: https://github.com/IanWhitney/durham-2014-march/
 ---
 
 Location\: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
