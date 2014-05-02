@@ -23,6 +23,8 @@ title: Code-People at the University of Minnesota
           {{ post.title }}
         {% endif %}
       </a></strong><br />{{ post.date | date: "%B %-d, %Y" }}</li>
+      {% else %}
+      <li>Stay tuned!</li>
     {% endfor %}
   </ul>
 </div>
