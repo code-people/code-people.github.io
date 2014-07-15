@@ -3,7 +3,7 @@ layout: post
 title: Campus Codefest, Qualys, Salesforce, and Peoplesoft integration
 presenters: Michael Berkowski, Joe Ardolino, and Eric Fournier
 date:   2014-06-05 09:30
-categories: upcoming
+categories: meetings
 recording_url: 
 presentation_links:
 ---
