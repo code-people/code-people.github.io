@@ -5,10 +5,8 @@ presenters: David Naughton
 date:   2013-11-05 21:38:11
 categories: meetings
 presentation_links:
- - text: Some slides
-   href: http:://www.google.com/
- - text: Cat pictures
-   href: http:://www.google.com/
+ - text: Slides
+   href: http://nihiliad.github.io/umn-code-people-php-2013/
 ---
 
 Bjarne Stroustrup observed,
@@ -21,5 +19,8 @@ Michael Berkowski will provide an update of the Community Shibboleth API project
 
 ### Schedule
 
-asdf
+ - 9:30am   -   9:45am - Welcome New Code People Committee Members
+ - 9:45am   - 10:45am - Cutting-edge PHP - David Naughton
+ - 10:45am - 11:00am - Community Shibboleth API - Michael Berkowski
+ - 11:00am - 12:00pm - Lunch
 
