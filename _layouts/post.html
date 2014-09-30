@@ -8,7 +8,9 @@ layout: default
   <p>{{ page.date | date: "%B %-d, %Y at %l:%M" }}</p>
 
   {% if page.recording_url %}
-  <p><a href="{{ page.recording_url }}" class="button"><i class="fi-play-video"></i> Watch the recorded session</a></p>
+  <p><a href="{{ page.recording_url }}" class="button radius"><i class="fi-play-video"></i> Watch the recorded session</a></p>
+  {% else %}
+  <p><a href="https://umconnect.umn.edu/cpm" class="button radius success"><i class="fi-play-video"></i> Participate online</a></p>
   {% endif %}
 
   {{ content }}
