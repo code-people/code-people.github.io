@@ -2,8 +2,8 @@
 layout: post
 title: Meet the MN Population Center and Show 'n Tell
 date:   2014-10-02 09:30
-categories: upcoming
-recording_url: 
+categories: meetings
+recording_url: https://umconnect.umn.edu/p45071101/
 ---
 
 Location\: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
