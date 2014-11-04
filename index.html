@@ -15,7 +15,7 @@ title: Code-People at the University of Minnesota
 <div class="large-6 columns">
   <h3>Upcoming meetings</h3>
   <ul class="meetings">
-    {% for post in site.categories.upcoming limit:5 %}
+    {% for post in site.categories.upcoming reversed limit:5 %}
       <li><strong><a href="{{ post.url }}">
         {% if post.presenters %}
           &ldquo;{{ post.title }}&rdquo; with {{ post.presenters }}
