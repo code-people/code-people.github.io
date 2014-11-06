@@ -2,7 +2,8 @@
 layout: post
 title: Meet the CLA Student Services Dev Team and Advanced Git
 date:   2014-11-06 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://umconnect.umn.edu/p63732355/
 ---
 
 Location\: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
