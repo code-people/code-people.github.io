@@ -3,7 +3,7 @@ layout: post
 title: Libraries' build tools and Github 2.1
 date:   2015-02-05 09:30
 categories: upcoming
-recording_url:
+recording_url: https://umconnect.umn.edu/p10422470/
 ---
 
 Location\: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
