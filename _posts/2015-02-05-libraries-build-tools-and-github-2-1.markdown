@@ -2,7 +2,7 @@
 layout: post
 title: Libraries' build tools and Github 2.1
 date:   2015-02-05 09:30
-categories: upcoming
+categories: meetings
 recording_url: https://umconnect.umn.edu/p10422470/
 ---
 
