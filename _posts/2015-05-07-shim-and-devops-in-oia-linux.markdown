@@ -3,7 +3,7 @@ layout: post
 title: Identity Management's Shim and Automating OIA Linux with Chef
 date:   2015-05-07 09:30
 categories: meetings
-recording_url:
+recording_url: https://umn.webex.com/umn/ldr.php?RCID=c719d1464d65f049dc25b6df340d7496
 ---
 
 Location\: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
