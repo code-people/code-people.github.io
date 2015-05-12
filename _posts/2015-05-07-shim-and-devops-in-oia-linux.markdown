@@ -2,7 +2,7 @@
 layout: post
 title: Identity Management's Shim and Automating OIA Linux with Chef
 date:   2015-05-07 09:30
-categories: upcoming
+categories: meetings
 recording_url:
 ---
 
