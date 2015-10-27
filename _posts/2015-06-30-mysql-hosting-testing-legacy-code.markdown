@@ -2,7 +2,7 @@
 layout: post
 title: Hosted Mysql, Testing legacy code, and meet the Peoplesoft dev team
 date:   2015-06-30 09:30
-categories: upcoming
+categories: meetings
 recording_url:
 ---
 
