@@ -2,7 +2,7 @@
 layout: post
 title: F5 load balancer overview, Testing with Ian, and meet the housing dev team
 date:   2015-06-04 09:30
-categories: upcoming
+categories: meetings
 recording_url:
 ---
 
@@ -25,4 +25,3 @@ plan around.
 - 10:50-11:00: Lightning Talk (Or update on consensus workshop)
 
 As always, Lunch to follow (On the plaza by McNamara - let's try this again.)
-

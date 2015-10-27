@@ -2,8 +2,8 @@
 layout: post
 title: Hosted Mysql, Testing legacy code, and meet the Peoplesoft dev team
 date:   2015-06-30 09:30
-categories: upcoming
-recording_url:
+categories: meetings
+recording_url: https://umn.webex.com/umn/ldr.php?RCID=6aefb894bc243cc8873c9f4c1a9156dc
 ---
 
 Location\: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
