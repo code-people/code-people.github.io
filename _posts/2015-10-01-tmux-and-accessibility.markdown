@@ -3,7 +3,7 @@ layout: post
 title: Tmux and accessibility
 date:   2015-10-01 09:30
 categories: meetings
-recording_url:
+recording_url: https://umn.webex.com/umn/ldr.php?RCID=f0ebc0d9459e6006401b02e0c494c674
 ---
 
 Location\: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
