@@ -3,7 +3,7 @@ layout: post
 title: Testing infrastructure and PHP database APIs
 date:   2015-08-06 09:30
 categories: meetings
-recording_url:
+recording_url: https://umn.webex.com/umn/ldr.php?RCID=fce27510ef9968c523892819f5423590
 ---
 
 Location\: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
