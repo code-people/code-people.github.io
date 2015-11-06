@@ -2,8 +2,8 @@
 layout: post
 title: Meet the Peoplesoft team and Refactoring
 date:   2015-11-05 09:30
-categories: upcoming
-recording_url:
+categories: meetings
+recording_url: https://umn.webex.com/umn/ldr.php?RCID=d86658a46b11dca222fdd699f151c605
 ---
 
 Location\: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
