@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Upcoming February meeting
+title: Upcoming February Meeting
 date:   2016-01-16 09:30
 categories: upcoming
 ---
 
-When: Thursday, February 4th 9:30 - 11:00am
+When: Thursday, February 4th 9:30 - 11:00am<br />
 Location\: [Hubert H. Humphrey](http://campusmaps.umn.edu/hubert-h-humphrey-school-public-affairs), Room 50B
 
 Important! Our February meeting is in a **different location** as our normal room is upgraded.
