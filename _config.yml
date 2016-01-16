@@ -1,6 +1,6 @@
 name: code-people
 markdown: kramdown
-pygments: true
+highlighter: pygments
 future: true # allow posts in the future (used for upcoming meetings)
 exclude: ['vendor']
 navigation:
