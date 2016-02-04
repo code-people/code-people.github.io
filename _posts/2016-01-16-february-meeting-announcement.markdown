@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Upcoming February Meeting
+title: Inro to Rust and Grepping Git
 date:   2016-01-16 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://umn.webex.com/umn/ldr.php?RCID=de05748edfb828f827a1c67ce3d66573
 ---
 
 When: Thursday, February 4th 9:30 - 11:00am<br />
@@ -12,13 +13,9 @@ Important! Our February meeting is in a **different location** as our normal roo
 
 Streaming Link: [http://z.umn.edu/cpmwebex](http://z.umn.edu/cpmwebex)
 
-### Tentative agenda
+### Agenda
 
--  9:30 - 10:00: the Information Security (UIS) Group -- Josh Buysse
-- 10:00 - 10:25:	Introduction to Rust -- Ian Whitney
-- 10:30 - 10:50:	Grepping Git -- Davin Lagerroos
-- 10:50 - 11:00:	Lightning talks
-  - Practicing Refactoring (Ian Whitney)
-  - New Tools: Artifactory & Hipchat (Jake Gage & Ben Larson)
+9:30 - 10:00: Introduction to Rust - Ian Whitney
+10:00 - 11:00:	Grepping Git – Davin Lagerroos
 
 Afterwards we'll meet for lunch at [Acadia](http://acadiapub.com/). Feel free to join us, even if you can't attend the meeting.
