@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inro to Rust and Grepping Git
-date:   2016-01-16 09:30
+date:   2016-02-04 09:30
 categories: meetings
 recording_url: https://umn.webex.com/umn/ldr.php?RCID=de05748edfb828f827a1c67ce3d66573
 ---
