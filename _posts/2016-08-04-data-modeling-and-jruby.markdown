@@ -11,7 +11,7 @@ Ahoy, Code Peeps!
 
 For our August Code-People meeting we'll be hearing from Mark Skweres, the
 University's data architect. He'll show off some new data modeling tools his
-team has successfully using.
+team has successfully been using.
 
 We also have a special guest this month— Tom Enebo, co-lead of the Jruby project
 here to talk about JRuby.
