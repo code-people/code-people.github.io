@@ -28,4 +28,4 @@ We hope to see you there!
     - CCF reminder (Chad, Michael)
     - CCF Project pitches
 
-Join us after the meeting for lunch on Mcnamara Plaza (or at Punch if it rains).
+Join us after the meeting for lunch on McNamara Plaza (or at Punch if it rains).
