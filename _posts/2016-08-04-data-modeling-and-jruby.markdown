@@ -2,7 +2,9 @@
 layout: post
 title: Data Modeling and Jruby
 date: 2016-08-04 9:30
-categories: upcoming
+categories: meetings
+recording_url: https://umn.webex.com/umn/ldr.php?RCID=92ee69c64d35eca749b1e4305d326f8a
+
 ---
 
 Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
