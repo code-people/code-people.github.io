@@ -3,6 +3,7 @@ layout: post
 title: Pair Programming, OpenShift and Elixir
 date: 2016-10-06 9:30
 recording_url: https://umn.webex.com/umn/ldr.php?RCID=371f55b383570b602239d42a1d4242f8
+categories: meetings
 presentation_links:
  - text: Pair Programming Slides
    href: https://docs.google.com/a/umn.edu/presentation/d/1GwrcyseBCm9Xirlvpl-mTzVOkjM1ETf8Vr0zEnCq0Lw/edit?usp=sharing

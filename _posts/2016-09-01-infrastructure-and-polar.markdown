@@ -2,6 +2,7 @@
 layout: post
 title: Infrastructure, Ansible and Polar Data
 date: 2016-09-01 9:30
+categories: meetings
 recording_url: https://umn.webex.com/umn/ldr.php?RCID=c892e119d948df37c0cda4cf231cfd79
 ---
 

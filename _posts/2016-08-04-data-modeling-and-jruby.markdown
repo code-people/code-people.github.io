@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Data Modeling and Jruby
+categories: meetings
 date: 2016-08-04 9:30
 ---
 
