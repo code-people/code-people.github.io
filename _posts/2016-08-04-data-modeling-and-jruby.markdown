@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Data Modeling and Jruby
+categories: meetings
 date: 2016-08-04 9:30
-categories: upcoming
 ---
 
 Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
