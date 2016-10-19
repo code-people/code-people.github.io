@@ -2,7 +2,7 @@
 layout: post
 title: People People Super-Meeting
 date: 2016-11-10 9:30
-categories: meetings
+categories: upcoming
 ---
 
 Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
