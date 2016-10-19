@@ -9,7 +9,7 @@ categories: upcoming
 - Day: Thursday, November 10th
 - Time: 9:30 - 11:30
 
-Web People, Code People, Net People and DevOps combined into one Super-Meeting of People People. Expect a wide ranging set of talks, and delicious treats.
+Web People, Code People, Net People and DevOps combined into one Super-Meeting of People People. Expect a wide ranging set of talks, and delicious food: donuts, coffee, cookies and pizza!
 
 Tentative Schedule
 ---
