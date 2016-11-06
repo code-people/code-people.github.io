@@ -1,6 +1,6 @@
 ---
 layout: post
-title: People People Super-Meeting
+title: TechPeople Super-Meeting
 date: 2016-11-10 9:30
 categories: upcoming
 ---
@@ -9,7 +9,7 @@ categories: upcoming
 - Day: Thursday, November 10th
 - Time: 9:30 - 11:30
   
-Gather round, Web People, Net People, DevOps, Code People, Comp-Sec, and other people for the first Tech People Meeting!
+Gather round, Web People, Net People, DevOps, Code People, Comp-Sec, and other people for the first TechPeople Meeting!
 
 On Thursday, November 10, Walter Library 402, we will convene our first twice-annual super-group meeting of iCoPs. We've chosen talks that should be of interest to all, and in the rare case something isn't interesting, we'll have a huge amount of refreshments to keep you occupied.
 
