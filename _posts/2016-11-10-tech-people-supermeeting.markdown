@@ -2,7 +2,8 @@
 layout: post
 title: TechPeople Super-Meeting
 date: 2016-11-10 9:30
-categories: upcoming
+recording_url: https://umn.webex.com/umn/ldr.php?RCID=3a46aec221213750e47ac53eebcfd417
+categories: meetings
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
