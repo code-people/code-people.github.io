@@ -2,13 +2,13 @@
 layout: post
 title: "December 1: CEHD, Ops and Moodle"
 date: 2016-12-1 9:30
-categories: upcoming
+categories: meetings
+recording_url: https://umn.webex.com/umn/ldr.php?RCID=c363ccf3fb16c1b6232aef45dfa4cd69
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
 - Day: Thursday, December 1st
 - Time: 9:30 - 11:00
-  
 
 - 9:30 - 9:50   Meet a Dev Group: CEHD - Brady Sloan
 - 9:55 - 10:15  Population Center Ops (Mesos/Docker) - June Taylor
