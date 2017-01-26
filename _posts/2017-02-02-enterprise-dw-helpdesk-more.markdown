@@ -13,9 +13,9 @@ Tentative Agenda:
 
 - 9:30 - 10:00   Enterprise Data Warehouse - Brian Krupski, Mark Skweres
 - 10:00 - 10:20  Life at the Help Desk (Paul Honsey)
-- 10:20 - 10:40  Excitement! TBD
+- 10:20 - 10:40  Meet a Dev Group: ASR Custom Solutions
 - 10:45 - 11:00 Lightning Talks!
   1. How to Ignore files without changing .gitignore (Ian)
 
- Join us after the meeting for lunch!
+ Join us after the meeting for lunch at [Bar Luchador](http://www.barluchador.com/)
 
