@@ -11,11 +11,11 @@ categories: upcoming
 
 Tentative Agenda:
 
-- 9:30 - 9:55  Unbagging Snakes (Refactoring Legacy Code)
-- 10:00 - 10:20  Using DevOps for PeopleSoft Environments
-- 10:20 - 10:40  (tentative) UmbraSearch - Chad Fennell
-- 10:45 - 11:00 Lightning Talks!
-  1. Excitement! TBD
+- 9:30 - 9:55  Unbagging Snakes (Refactoring Legacy Code), Jake Gage and Chris Crosby-Schmidt
+- 10:00 - 10:20 Meet ASR Custom Solutions, Ian Whitney
+- 10:30 - 10:50 Ruby on Rails as a Java Developer, Jack Brown
+- 10:50 - 11:00 Lightning Talks!
+  1. DevOpsDay
+  2. TechPeople
 
  Join us after the meeting for lunch!
-
