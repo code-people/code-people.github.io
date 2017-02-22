@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March 2: Snakes!, 'PeopleSoft, Meet DevOps', (maybe?) UmbraSeach"
+title: "March 2: Snakes! Rails! Lightning!"
 date: 2017-3-2 9:30
 categories: upcoming
 ---
@@ -15,7 +15,7 @@ Tentative Agenda:
 - 10:00 - 10:20 Meet ASR Custom Solutions, Ian Whitney
 - 10:30 - 10:50 Ruby on Rails as a Java Developer, Jack Brown
 - 10:50 - 11:00 Lightning Talks!
-  1. DevOpsDay
+  1. DevOps UMN 2017
   2. TechPeople
 
  Join us after the meeting for lunch!
