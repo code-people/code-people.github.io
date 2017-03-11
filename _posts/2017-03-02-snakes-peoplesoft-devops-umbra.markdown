@@ -3,6 +3,7 @@ layout: post
 title: "March 2: Snakes! Rails! Lightning!"
 date: 2017-3-2 9:30
 categories: meetings
+recording_url: https://umn.webex.com/umn/lsr.php?RCID=cb990b25db2ed9441e832fba3fae3b74
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
