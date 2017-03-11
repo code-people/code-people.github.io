@@ -2,7 +2,7 @@
 layout: post
 title: "March 2: Snakes! Rails! Lightning!"
 date: 2017-3-2 9:30
-categories: upcoming
+categories: meetings
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
