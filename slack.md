@@ -3,7 +3,7 @@ layout: default
 title: Our Slack Community
 ---
 
-All the tech-related Communities of Practice gather at [http://tech-people-umn.slack.com/](http://tech-people-umn.slack.com/ Slack). We would love to have you join us.
+All the tech-related Communities of Practice gather at [Slack](http://tech-people-umn.slack.com/). We would love to have you join us.
 
 - Go to [https://tech-people-umn.slack.com/signup](https://tech-people-umn.slack.com/signup)
 - Enter your umn.edu email address
