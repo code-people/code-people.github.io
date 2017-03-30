@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "April 6: PeopleSoft Queries, OIT Integration, Open Sourcing Code"
+title: "April 6: PeopleSoft Queries, Ansible, Open Sourcing Code"
 date: 2017-04-06 9:30
-categories: meetings
+categories: upcoming
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
@@ -11,8 +11,13 @@ categories: meetings
 
 Tentative Agenda:
 
-- 9:30 - 9:55 PeopleSoft Query as a Service, Jeremy Irrthum
-- 10:00 - 10:25 Meet the OIT Integration Group, Chris Dinger
-- 10:30 - 10:55 Open Sourcing Software at the U, Brad Carlson
+- 9:30 - 9:50 PeopleSoft Query as a Service, Jeremy Irrthum
+- 9:50 - 10:10 Ansible, Andrew Zenk and David Naughton
+- 10:10 - 10:30 Open Sourcing Software at the U, Brad Carlson
+- Lightning Talks
+  - What is a JSP tag file
+  - Coderetreat Retrospective
+  - DevOps Days U of MN Retrospective
+  - Artifactory
 
  Join us after the meeting for lunch!
