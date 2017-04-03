@@ -17,7 +17,7 @@ Tentative Agenda:
 - Lightning Talks
   - What is a JSP tag file
   - Coderetreat Retrospective
-  - DevOps Days U of MN Retrospective
+  - DevOps UMN 2017 Retrospective
   - Artifactory
 
  Join us after the meeting for lunch!
