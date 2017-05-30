@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "June 1: Meet OIT Integrations, Swift, and Happenings in DBA Land"
+title: "June 1: Meet OIT Architecture and Systems Integration, Swift, and Happenings in DBA Land"
 date: 2017-06-01 9:30
 categories: upcoming
 ---
