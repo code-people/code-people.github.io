@@ -11,7 +11,7 @@ categories: upcoming
 
 Tentative Agenda:
 
-- 9:30 - 9:50 Meet a Dev Group: OIT Integrations - Chris Dinger
+- 9:30 - 9:50 Meet a Dev Group: OIT Architecture and Systems Integration - Chris Dinger
 - 9:50 - 10:10 Swift - Colin McFadden
 - 10:10 - 10:30 What's Coming in DBA Land? - Andy Wattenhofer
 - Lightning Talks
