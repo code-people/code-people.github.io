@@ -3,6 +3,7 @@ layout: post
 title: "June 1: Meet OIT Architecture and Systems Integration, Swift, and Happenings in DBA Land"
 date: 2017-06-01 9:30
 categories: meetings
+recording_url: https://umn.webex.com/umn/ldr.php?RCID=ab8c6a0bd2616ed8059772fe18b00ab8
 presentation_links:
 - text: OIT Architecture and Systems Integration
   href: https://docs.google.com/a/umn.edu/presentation/d/17H2J6rm67GGpGMj1hDVQMKk8hle6BqvrinqY7sLP8IA
