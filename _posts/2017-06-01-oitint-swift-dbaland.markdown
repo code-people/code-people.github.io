@@ -2,7 +2,14 @@
 layout: post
 title: "June 1: Meet OIT Architecture and Systems Integration, Swift, and Happenings in DBA Land"
 date: 2017-06-01 9:30
-categories: upcoming
+categories: meetings
+presentation_links:
+- text: OIT Architecture and Systems Integration
+  href: https://docs.google.com/a/umn.edu/presentation/d/17H2J6rm67GGpGMj1hDVQMKk8hle6BqvrinqY7sLP8IA
+- text: Swift
+  href: https://docs.google.com/presentation/d/1pHprGvTQeLO8iYMRXJ7kdMrISfOub9sYztGVtboxOHQ/edit?usp=sharing
+- text: Database Hosting Happenings
+  href: https://docs.google.com/a/umn.edu/presentation/d/111bfFnDgw1kmYXU-FC-SodjTjqINeXN51b4N7CiMuFg/edit?usp=sharing
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
