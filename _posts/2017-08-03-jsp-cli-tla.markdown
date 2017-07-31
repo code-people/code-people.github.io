@@ -12,13 +12,12 @@ categories: upcoming
 Tentative Agenda:
 
 - 9:30 - 9:50 JSP Tag Libraries - Jack Brown
-- 9:50 - 10:00 Building CLI Tools - Ian Whitney
+- 9:50 - 10:00 Using Git Flow - John Trammell
 - 10:10 - 10:25 Understanding Explain Plans - Andy Wattenhofer
 - 10:30 - 10:50 Webpack and JS Modules - Chad Fennell
 - Lightning Talks
   - Join the Code People Committee
   - Come to Campus Code Fest
-  - Cargo Culting Code
   - Artifactory
 
  Join us after the meeting for lunch!
