@@ -2,7 +2,7 @@
 layout: post
 title: "July 6: Happy Hour at Town Hall"
 date: 2017-07-06 16:00
-categories: upcoming
+categories: meetings
 ---
 
 - Location: [Town Hall Brewery](https://goo.gl/maps/3oC62RvRac72)
