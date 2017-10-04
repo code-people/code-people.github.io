@@ -2,7 +2,7 @@
 layout: post
 title: "Hadoop and OpenShift"
 date: 2017-09-07 09:30
-categories: upcoming
+categories: meetings
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
