@@ -2,7 +2,7 @@
 layout: post
 title: "Lightning Strikes 15 times: The All Lightning Talk Meeting"
 date: 2017-10-05 09:30
-categories: upcoming
+categories: meetings
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
