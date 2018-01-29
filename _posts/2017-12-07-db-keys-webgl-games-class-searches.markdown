@@ -2,7 +2,7 @@
 layout: post
 title: "December 7: DB Keys, WebGL Games, Class Searches"
 date: 2017-12-07 09:30
-categories: upcoming
+categories: meetings
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/walter-library), Room 402
