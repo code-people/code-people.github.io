@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "February 2: Day of Data Recap, LastPassify, and Refactoring ECAS"
+title: "February 1: Day of Data Recap, LastPassify, and Refactoring ECAS"
 date: 2018-02-01 09:30
 categories: upcoming
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/walter-library), Room 402
-- Day: Thursday, February 2nd
+- Day: Thursday, February 1st
 - Time: 9:30 - 11:00
 
 Tentative Agenda:
