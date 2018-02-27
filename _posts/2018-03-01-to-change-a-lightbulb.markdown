@@ -2,7 +2,7 @@
 layout: post
 title: "To Change a Lightbulb: The Art of Reliably Estimating Cost"
 date: 2018-03-01 09:30
-categories: meetings
+categories: upcoming
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
