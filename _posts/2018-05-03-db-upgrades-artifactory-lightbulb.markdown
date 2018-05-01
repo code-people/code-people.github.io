@@ -17,7 +17,7 @@ Tentative Agenda:
 - 10:30 - 11:00 Lightning Talks
   - DevOps UMN - Andrew Zenk
   - GitHub Features: Merge and Conflict Resolution - Jack Brown
-  - Code People Evalator Pitch - Davin Lagerroos
+  - Code People Elevator Pitch - Davin Lagerroos
   - plenty of room for more
 
 As always, join us after the meeting for lunch!
