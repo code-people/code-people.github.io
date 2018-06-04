@@ -2,7 +2,7 @@
 layout: post
 title: "Database Upgrades, Artifactory, Lightbulb Workshop Recap"
 date: 2018-05-03 09:30
-categories: upcoming
+categories: meetings
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
