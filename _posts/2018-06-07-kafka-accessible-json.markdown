@@ -2,7 +2,8 @@
 layout: post
 title: "Kafka, Accessible Checkins, JSON in Relational Databases"
 date: 2018-06-07 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://drive.google.com/open?id=1rqLYlxvYIEob2RP7hpysFfBL6SDj0PMm
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/walter-library), Room 402
