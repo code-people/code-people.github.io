@@ -12,7 +12,7 @@ categories: upcoming
 Agenda:
 
 - *9:30 - 9:50* **Modern JavaScript**, Tony Thomas
-- *9:50 - 10:20* **The IT Policy Program**, Eva Young
+- *9:50 - 10:20* **University Policy Program - IT Policy Program**, Eva Young
 - *10:20 - 10:40* **Meet the CRM Team**, Eric Fournier, Danielle Schatschneider
 - *10:40 - 11:00* lightning talks
   - **Signing Git Commits**, John Trammell
