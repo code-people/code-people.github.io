@@ -3,6 +3,7 @@ layout: post
 title: "Modern JavaScript, Policies and CRM"
 date: 2018-08-02 09:30
 categories: meetings
+recording_url: https://drive.google.com/open?id=1thMvtNoxZTiJv2iXVDZnhmnMtyv5RBwX
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/walter-library), Room 402
