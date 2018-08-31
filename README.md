@@ -6,7 +6,7 @@ that you don't want to share with the world. No FERPA or HIPAA violations, prett
 ## Firing up a local server
 
 1. Clone this repo `git clone git@github.com:code-people/code-people.github.io`
-1. Inside the cloned directory, run `jekyll serve --watch`
+1. Inside the cloned directory, run `jekyll serve --watch` *or* `docker-compose up`
 1. Point your browser to `http://localhost:4000`
 
 The `--watch` flag tell Jekyll to watch files for changes. As you work with your content,
