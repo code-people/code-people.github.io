@@ -19,6 +19,7 @@ Agenda:
   - Other Topics?
 - *10:40 - 11:00* lightning talks
   - Templates in Service Now (Andy Wattenhoffer)
+  - Invite your analysts!  They're code-people too.  (Jack Brown)
   - _Your Talk Here!_
 
 As always, join us after the meeting for lunch!
