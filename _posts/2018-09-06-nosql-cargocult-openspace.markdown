@@ -12,7 +12,7 @@ categories: meetings
 Agenda:
 
 - *9:30 - 9:50* **NoSQL Database Explorations**, Alison Link
-- *9:50 - 10:20* **Cargo Cult**, John Trammel
+- *9:50 - 10:20* **Cargo Cult**, John Trammell
 - *10:20 - 10:40* Group Discussions
   - Software Development Workflows
   - Inclusive (Non-Happy Hour Based) Social Event Brainstorming
