@@ -12,7 +12,7 @@ categories: upcoming
 Agenda:
 
 - *9:30 - 9:50* **What is Docker and "Why Should I Care?"**, Andrew Zenk
-- *9:50 - 10:20* **Docker in Development with Docker Compose**, Ian Whitney and Remy Abduallhi
+- *9:50 - 10:20* **Docker in Development with Docker Compose**, Remy Abduallhi
 - *10:20 - 10:50* **CLA Undergraduate Education - Kube / Gitlab Overview**, Kendrick Erickson
 - *10:40 - 11:00* lightning talks
   - _Bring Your Own!_
