@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Experts@Minnesota, Salesforce Integration, and Docker at Target"
+title: "Experts, Salesforce Integration, and kubernetes"
 date: 2018-12-06 09:30
 categories: upcoming
 ---
