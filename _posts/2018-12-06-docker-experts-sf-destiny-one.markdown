@@ -13,7 +13,7 @@ Agenda:
 
 - *9:30 - 9:50* **Experts@Minnesota Project**, David Naughton
 - *9:50 - 10:10* **Salesforce side of Destiny One Integration**, Eric Fournier
-- *10:10 - 10:45* **Docker at Target**, Ben Zvan
+- *10:10 - 10:45* **kubernetes at Target**, Ben Zvan
 - *10:45 - 11:00* Lightning Talks
   - _Bring Your Own!_
 
