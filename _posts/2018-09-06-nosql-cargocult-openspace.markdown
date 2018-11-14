@@ -3,6 +3,7 @@ layout: post
 title: "NoSQL Database Explorations, Cargo Cult Programming"
 date: 2018-09-06 09:30
 categories: meetings
+recording_url: https://drive.google.com/open?id=1GvRoojMLMVk08jmqLuDnonwyira1hmNi
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/walter-library), Room 402
