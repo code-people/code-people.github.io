@@ -2,7 +2,8 @@
 layout: post
 title: "Docktoberfest"
 date: 2018-10-04 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://drive.google.com/open?id=1QDSTVedosExD7tAbctlffpDOn1vdPHZT
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/walter-library), Room 402
