@@ -2,7 +2,7 @@
 layout: post
 title: "Experts, Salesforce Integration, and Kubernetes"
 date: 2018-12-06 09:30
-categories: upcoming
+categories: meetings
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/walter-library), Room 402
