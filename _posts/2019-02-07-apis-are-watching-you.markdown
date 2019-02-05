@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APIs and UIs"
+title: "APIs Are Watching You"
 date: 2019-02-07 09:30
 categories: upcoming
 ---
@@ -11,10 +11,10 @@ categories: upcoming
 
 Agenda:
 
-- *9:30 - 9:50* **Querying GitHub Commits using GraphQL**, Ian Whitney
-- *9:50 - 10:20* **Using Google Calendar API and Google OAuth**, Tonu Mikk
-- *10:20 - 10:40* **UI Awesomeness**, Lauren Beatty
-- *10:40 - 11:00* lightning talks
+- *9:30 - 10:05* **Querying GitHub Commits using GraphQL**, Ian Whitney
+- *10:05 - 10:15* **Break**
+- *10:15 - 10:35* **Using Google Calendar API and Google OAuth**, Tonu Mikk
+- *10:35 - 11:00* lightning talks
   - WWSMD? Hopefully Return To The U!
   - _Bring Your Own!_
 
