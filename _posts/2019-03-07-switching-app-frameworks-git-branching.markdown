@@ -3,6 +3,7 @@ layout: post
 title: "Switching App Frameworks and Using Git Branching"
 date: 2019-03-07 09:30
 categories: upcoming
+recording_url: https://drive.google.com/open?id=1Ma5DthfgFFq1cvLWzznb0az_SJ0k_bOG
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/walter-library), Room 402
