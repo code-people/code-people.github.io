@@ -12,7 +12,7 @@ categories: meetings
 Recording:
 
 - Mp4 contains presentation and audio only https://drive.google.com/open?id=1QDSTVedosExD7tAbctlffpDOn1vdPHZT
-- Webex recording link https://umn.webex.com/umn/ldr.php?RCID=0bd60df9a084b8be1a99c89256b277f9
+- Webex recording link https://umn.webex.com/umn/ldr.php?RCID=0067b2504adfd6d0a86138f4e684d0aa
 
 
 Agenda:
