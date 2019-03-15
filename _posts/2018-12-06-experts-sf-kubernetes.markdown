@@ -12,7 +12,7 @@ categories: upcoming
 Recording:
 
 - Mp4 contains presentation and audio only (56MB) https://drive.google.com/open?id=1_XtuUu8mrlx7Np_WzJ4qLgi9yaRDplrW
-- Webex streaming link https://umn.webex.com/umn/ldr.php?RCID=0bd60df9a084b8be1a99c89256b277f9
+- Webex recording link https://umn.webex.com/umn/ldr.php?RCID=0bd60df9a084b8be1a99c89256b277f9
 
 Agenda:
 
