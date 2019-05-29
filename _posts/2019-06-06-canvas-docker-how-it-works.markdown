@@ -17,7 +17,7 @@ categories: upcoming
 
 - 9:30 - Introductions
 - 9:35 - 9:55 [Getting Started With Building an LTI](#getting-started-with-building-an-lti), Colin McFadden
-- 9:55 - 10:10 [Using Docker for Development and Deployment of Off the Shelf Software](#using-docker-for-development-and-deployment-of-off-the-shelf-software), Travis Sobeck
+- 9:55 - 10:20 [Using Docker for Development and Deployment of Off the Shelf Software](#using-docker-for-development-and-deployment-of-off-the-shelf-software), Travis Sobeck
 - 10:20 - 10:25 Break
 - 10:25 - 10:40 [How It Works - The Anatomy of the Testing Request Form](#how-it-works-the-anatomy-of-the-testing-request-form), Tonu Mikk
 - 10:40 - 11:00 Lightning talks
