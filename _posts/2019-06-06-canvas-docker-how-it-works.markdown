@@ -7,7 +7,7 @@ categories: upcoming
 
 ## Meta:
 
-**This meeting will be in person in Bruininks 131B and online on [Zoom](z.umn.edu/cpmwebex)**
+**This meeting will be in person in Bruininks 131B and online on [Zoom](https://z.umn.edu/cpmstream)**
 
 - Location: [Bruininks Hall](https://campusmaps.umn.edu/robert-h-bruininks-hall), Room 131B
 - Day: Thursday, June 6
