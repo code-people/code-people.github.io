@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building a Canvas LTI, Docker for Development, How It Works: the Testing Request Form"
-date: 2019-04-04 09:30
+date: 2019-06-06 09:30
 categories: upcoming
 ---
 
@@ -16,19 +16,19 @@ categories: upcoming
 ## Agenda:
 
 - 9:30 - Introductions
-- 9:35 - 9:55 [Getting started building an LTI](#getting-started-building-an-lti), Colin McFadden
+- 9:35 - 9:55 [Getting Started With Building an LTI](#getting-started-with-building-an-lti), Colin McFadden
 - 9:55 - 10:10 [Using Docker for Development and Deployment of Off the Shelf Software](#using-docker-for-development-and-deployment-of-off-the-shelf-software), Travis Sobeck
 - 10:20 - 10:25 Break
 - 10:25 - 10:40 [How It Works - The Anatomy of the Testing Request Form](#how-it-works-the-anatomy-of-the-testing-request-form), Tonu Mikk
 - 10:40 - 11:00 Lightning talks
-  - How It Works - a Talk Template (Tonu Mikk/Colin McFadden)
+  - How It Works - a Talk Template
   - _Bring your own_
 
 As always, join us after the meeting for lunch!
 
 ## Talk Descriptions:
 
-### Getting started building an LTI
+### Getting Started With Building an LTI
 Colin McFadden (Technology Architect | LATIS)
 
 > This talk will explore the Learning Tools Interoperability (LTI) technology, which allows for third party apps to extend a learning management platform like Canvas.  LTI can be incredibly overwhelming, but it doesn’t have to be - you can build simple LTI integration into your app without needing to become an LTI expert.
