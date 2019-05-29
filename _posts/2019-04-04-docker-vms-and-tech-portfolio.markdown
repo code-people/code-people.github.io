@@ -2,7 +2,7 @@
 layout: post
 title: "Docker on VMs and the Technology Portfolio"
 date: 2019-04-04 09:30
-categories: upcoming
+categories: meetings
 recording_url: https://drive.google.com/open?id=1tAxnrRy5JBHxBuJycnTJZVvdISjzGt86
 ---
 
