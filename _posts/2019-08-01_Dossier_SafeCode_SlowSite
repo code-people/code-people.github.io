@@ -7,38 +7,39 @@ categories: upcoming
 
 ## Meta:
 
-**This meeting will be in person in Bruininks 131B and online on [Zoom](https://z.umn.edu/cpmstream)**
-
-- Location: [Bruininks Hall](https://campusmaps.umn.edu/robert-h-bruininks-hall), Room 131B
-- Day: Thursday, June 6
+- Location: [Walter Library](http://campusmaps.umn.edu/walter-library), Room 402 and on [Zoom](https://z.umn.edu/cpmstream)
+- Day: Thursday, Aug 4
 - Time: 9:30 - 11:00
 
 ## Agenda:
 
 - 9:30 - Introductions
-- 9:35 - 9:55 [Getting Started With Building an LTI](#getting-started-with-building-an-lti), Colin McFadden
-- 9:55 - 10:20 [Using Docker for Development and Deployment of Off the Shelf Software](#using-docker-for-development-and-deployment-of-off-the-shelf-software), Travis Sobeck
+- 9:35 - 9:55 [Demo CLA Promotion and Tenure Dossier Builder tool](#demo-cla-promotion-and-tenure-dossier-builder-tool), Elleni B Fellows
+- 9:55 - 10:20 [Creating a safe code review space](#creating-a-safe-code-review-space), Tony Thomas
 - 10:20 - 10:25 Break
-- 10:25 - 10:40 [How It Works - The Anatomy of the Testing Request Form](#how-it-works-the-anatomy-of-the-testing-request-form), Tonu Mikk
+- 10:25 - 10:40 [Linux Performance Metrics](#linux-performance-metrics), Willy B Lee
 - 10:40 - 11:00 Lightning talks
-  - How It Works - a Talk Template
   - _Bring your own_
 
 As always, join us after the meeting for lunch!
 
 ## Talk Descriptions:
 
-### Getting Started With Building an LTI
-Colin McFadden (Technology Architect | LATIS)
+### Demo CLA Promotion and Tenure Dossier Builder tool
+Elleni B Fellows (Software Development Coordinator | LATIS)
 
-> This talk will explore the Learning Tools Interoperability (LTI) technology, which allows for third party apps to extend a learning management platform like Canvas.  LTI can be incredibly overwhelming, but it doesn’t have to be - you can build simple LTI integration into your app without needing to become an LTI expert.
+> The project goal was to increase efficiency and accuracy in the UMN-required promotion and tenure dossier submission process through automation via workflow tools by providing easy access to the standards, best practices, and expectations at the appropriate time in the process. The output of this process is required to be in PDF format which is submitted to OVPR and the UMN Regents.
 
-### Using Docker for Development and Deployment of Off the Shelf Software
-Travis Sobeck (Core Infrastructure Admin | OIT)
+> The resulting tool was a FileMaker solution build to manage the administrative tasks around gathering and organizing documents that are part of the faculty Promotion and Tenure Dossier creation process. The tool uses FileMaker desktop application and PDFtk to assemble documents, create a table of contents, pagination and pdf bookmarks.
 
-> Docker is great for playing with a new language or product, testing and deploying software someone else produced, and of course developing your own software.  I will share some tips, tricks, and code to help you get started and discuss what can and can not be put in a container.
+### Creating a safe code review space
+Tony Thomas (Developer | ASR-IT)
 
-### How It Works: The Anatomy of the Testing Request Form
-Tonu Mikk (Adaptive Technologist | Disability Resource Center)
+> Even in a very high-functioning team with few personal conflicts, code reviews can be a pitfall for unintentionally introducing conflict. Conflict can make people on your team feel less safe and valued. If you want to build a diverse team. This could present a barrier.
 
->This talk will describe the custom built web form that students use to request exams to be taken at the Disability Resource Center.  We overview the features of the form and how these features are supported by various technologies - Shibboleth, Apache with reverse proxy configuration, 4D, Foundation CSS, Data Warehouse, Active4D, and Javascript.
+> This presentation will focus on constructive criticism and healthy communication so team members can learn and benefit from code reviews and feel safe receiving feedback.
+
+### Linux Performance Metrics
+Willy B Lee (Sys/Database Design | RSRCH Soc Rsrch)
+
+>
