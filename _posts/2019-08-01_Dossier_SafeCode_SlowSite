@@ -8,7 +8,7 @@ categories: upcoming
 ## Meta:
 
 - Location: [Walter Library](http://campusmaps.umn.edu/walter-library), Room 402 and on [Zoom](https://z.umn.edu/cpmstream)
-- Day: Thursday, Aug 4
+- Day: Thursday, Aug 1
 - Time: 9:30 - 11:00
 
 ## Agenda:
@@ -42,4 +42,4 @@ Tony Thomas (Developer | ASR-IT)
 ### Linux Performance Metrics
 Willy B Lee (Sys/Database Design | RSRCH Soc Rsrch)
 
->
+> How to know how a machine is doing based on things like atop, sar, iostat, vmstat, etc.
