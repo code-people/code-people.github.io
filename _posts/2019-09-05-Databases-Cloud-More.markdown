@@ -17,7 +17,7 @@ categories: upcoming
 - 9:35 - 9:50 [Database Performance Series](#database-performance-series), Andy Wattenhofer
 - 9:50 - 10:00 [Background Async Tasks in Ansible](#background-async-tasks-in-ansible), Michael Berkowski
 - 10:00 - 10:10 Break
-- 10:10 - 10:30 [OIT - Cloud enablement](#oit-cloud-enablement), Kyle Weeks
+- 10:10 - 10:30 [OIT - Cloud enablement](#oit---cloud-enablement), Kyle Weeks
 - 10:30 - 11:00 Lightning talks
   - Harmful software installations
   - Campus Codefest projects
