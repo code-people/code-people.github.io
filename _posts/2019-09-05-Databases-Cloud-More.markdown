@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Databases, OIT - Cloud Enablement,  "
+title: "Databases, Cloud, and more...  "
 date: 2019-09-05 09:30
 categories: upcoming
 ---
