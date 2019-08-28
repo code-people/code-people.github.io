@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Canvas LTI, Docker for Development, How It Works: the Testing Request Form"
 date: 2019-06-06 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
