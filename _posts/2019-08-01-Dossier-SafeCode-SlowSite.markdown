@@ -2,7 +2,7 @@
 layout: post
 title: "CLA Promotion and Tenure Dossier Builder tool, Creating a safe code review space, Linux Performance Metrics"
 date: 2019-08-01 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
