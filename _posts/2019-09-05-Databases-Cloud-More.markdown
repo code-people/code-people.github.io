@@ -19,7 +19,7 @@ categories: upcoming
 - 10:00 - 10:10 Break
 - 10:10 - 10:30 [OIT - Cloud enablement](#oit---cloud-enablement), Kyle Weeks
 - 10:30 - 11:00 Lightning talks
-  - Harmful software installations
+  - Harmful software installations, John Trammell
   - Campus Codefest projects
   - _Bring your own_
 
