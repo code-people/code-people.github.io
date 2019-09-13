@@ -2,7 +2,8 @@
 layout: post
 title: "Databases, Cloud, and more...  "
 date: 2019-09-05 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/0_0gzyx60z
 ---
 
 ## Meta:
