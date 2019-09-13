@@ -3,6 +3,7 @@ layout: post
 title: "August 3: JSP, CLI, Explain Plans, and Webpack"
 date: 2017-08-03 16:00
 categories: meetings
+recording_url: https://drive.google.com/a/umn.edu/file/d/1gYPr6sdtmQOwU5svu5hM8TIBpYIL5vXR/view?usp=sharing
 ---
 
 - Location: [Walter Library](http://campusmaps.umn.edu/tc/map.php?building=042), Room 402
