@@ -3,6 +3,7 @@ layout: post
 title: "Building a Canvas LTI, Docker for Development, How It Works: the Testing Request Form"
 date: 2019-06-06 09:30
 categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_c1rqn15j
 ---
 
 ## Meta:
