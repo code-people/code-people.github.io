@@ -14,7 +14,7 @@ categories: upcoming
 ## Agenda:
 
 - 9:30 - Introductions
-- 9:35 - 9:55 [Meet a Dev Group - AHC](#meet-a-dev-group--ahc), HST Development and Integrations Team
+- 9:35 - 9:55 [Meet the AHC Dev Group](#meet-the-ahc-dev-group), HST Development and Integrations Team
 - 9:55 - 10:20 [Working with External Data and Events](#working-with-external-data-and-events), Ian Whitney - ASR
 - 10:20 - 10:25 Break
 - 10:25 - 10:45 [Enhancing Learning and Measuring Educational Outcomes with Learning Management System Integrations](#enhancing-learning-and-measuring-educational-outcomes-with-learning-management-system-integrations), Drew LaChapelle and Chris Scruton - OIT Academic Technology
@@ -26,7 +26,7 @@ As always, join us after the meeting for lunch!
 
 ## Talk Descriptions:
 
-### Meet a Dev Group - AHC
+### Meet the AHC Dev Group
 HST Development and Integrations Team
 
 > Meet the Health Sciences Technology (HST) Development and Integrations team. We'll talk about how our organization fits into the University, what kind of work we do, and show off a couple of recent projects.
