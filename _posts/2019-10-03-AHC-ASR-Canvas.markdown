@@ -3,7 +3,7 @@ layout: post
 title: "Meet HST, Data with ASR, and Canvas Integrations"
 date: 2019-10-03 09:30
 categories: meetings
-recording_url: https://drive.google.com/a/umn.edu/file/d/1TS49MVuslyc39lrTah0JsRsy9NMigfzn/view?usp=sharing
+recording_url: https://drive.google.com/a/umn.edu/file/d/1TS49MVuslyc39lrTah0JsRsy9NMigfzn/view?usp=sharing 
 ---
 
 ## Meta:
