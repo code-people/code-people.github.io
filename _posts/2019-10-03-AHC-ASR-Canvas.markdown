@@ -2,7 +2,7 @@
 layout: post
 title: "Meet HST, Data with ASR, and Canvas Integrations"
 date: 2019-10-03 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
