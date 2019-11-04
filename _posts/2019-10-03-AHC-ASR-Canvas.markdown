@@ -3,6 +3,7 @@ layout: post
 title: "Meet HST, Data with ASR, and Canvas Integrations"
 date: 2019-10-03 09:30
 categories: meetings
+recording_url: https://drive.google.com/drive/u/0/folders/1aXspI0EURQg6pIj6mU8-I2AMWYsvC-P1
 ---
 
 ## Meta:
