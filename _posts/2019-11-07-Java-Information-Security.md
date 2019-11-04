@@ -14,9 +14,9 @@ categories: upcoming
 ## Agenda:
 
 - 9:30 - Introductions
-- 9:35 - 10:00 [Use Jib to Deploy Java the Easy Way](#use-jib-to-deploy-java-the-easy-way), Travis Sjobeck - Core Infrastructure Admin, OIT
+- 9:40 - 10:00 [Use Jib to Deploy Java the Easy Way](#use-jib-to-deploy-java-the-easy-way), Travis Sjobeck - Core Infrastructure Admin, OIT
 - 10:00 - 10:15 Break
-- 10:25 - 10:45 [Updated Information Security Standards and Gap Analysis](#updated-information-security-standards-and-gap-analysis), Ray Phillips - University Information Security, OIT
+- 10:15 - 10:45 [Updated Information Security Standards and Gap Analysis](#updated-information-security-standards-and-gap-analysis), Ray Phillips - University Information Security, OIT
 - 10:45 - 11:00 Lightning Talks
   - _Bring Your Own!_
 
