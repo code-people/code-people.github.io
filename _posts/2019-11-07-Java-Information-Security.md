@@ -2,7 +2,7 @@
 layout: post
 title: "Deploy Java, UIS Security Standards"
 date: 2019-11-07 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
