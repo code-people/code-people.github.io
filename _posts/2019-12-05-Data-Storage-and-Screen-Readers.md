@@ -30,4 +30,4 @@ Fred Dulles and Jill Woyak - UMN Storage Champion Network
 
 ### Screen Reader Demo
 Khaled Musa - Academic Technology Support Services
-> (TODO)
+> _Talk description is not yet available. Check back soon!_
