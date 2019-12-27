@@ -2,7 +2,7 @@
 layout: post
 title: "Data Storage Update and Screen Reader Demo"
 date: 2019-12-05 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
