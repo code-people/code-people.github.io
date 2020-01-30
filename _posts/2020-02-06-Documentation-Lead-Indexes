@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Documentation, Tech Lead, Database Indexes"
+date: 2020-02-06 09:30
+categories: meetings
+---
+
+## Meta:
+
+- Location: [Walter Library](http://campusmaps.umn.edu/walter-library), Room 402 and on [Zoom](https://z.umn.edu/cpmstream)
+- Day: Thursday, Feb 6
+- Time: 9:30 - 11:00
+
+## Agenda:
+
+- 9:30 - Introductions
+- 9:35 - 10:00 [Creating Public Documentation with VuePress](#Creating-Public-Documentation-with-VuePress)
+- 10:00 - 10:10 Break
+- 10:10 - 10:30 [My Year as a Tech Lead](#My-Year-as-a-Tech-Lead)
+- 10:30 - 10:50 [Database Indexes](#Database-Indexes)
+- 10:45 - 11:00 Lightning Talks
+  - Google Calendar Recurrance Rules - Tonu
+  - Changing the code-people Google Calendar - Chris
+  - _Bring Your Own!_
+
+As always, join us after the meeting for lunch!
+
+## Talk Descriptions:
+
+### Creating Public Documentation with VuePress
+Colin McFadden - CLA Latis 
+> VuePress allows you to create easy-to-navigate, SEO-friendly documentation using markdown, which can be hosted through GitHub Pages.  This allows your documentation to exist within your GitHub repo and allows for crowd-sourcing documentation.    In this presentation, we’ll look at the pros and cons of VuePress, and walk through the process for creating new documentation.
+
+### My Year as a Tech Lead
+Tony Thomas - Academic Support Resources
+> What does "Tech Lead" mean? It's a vague title and definitions vary.
+
+> I spent a year as the tech lead on a project and I was asked to define what I thought that role meant. This talk would focus on lessons learned during that year. I'll tell the story of what I think my role as tech lead was and draw on books and resources I found helpful along the way.
+
+### Database Indexes
+Brad Carlson - OIT
+> Why to use them? How to figure out which columns to index? Database/platform specific concerns "gotcha"s, anti-patterns, or things to avoid.
