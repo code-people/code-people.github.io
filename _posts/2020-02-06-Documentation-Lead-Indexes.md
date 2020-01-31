@@ -14,10 +14,10 @@ categories: upcoming
 ## Agenda:
 
 - 9:30 - Introductions
-- 9:35 - 10:05 [Creating Public Documentation with VuePress](#Creating-Public-Documentation-with-VuePress)
+- 9:35 - 10:05 [Creating Public Documentation with VuePress](#creating-public-documentation-with-vuepress)
 - 10:05 - 10:10 Break
-- 10:10 - 10:30 [My Year as a Tech Lead](#My-Year-as-a-Tech-Lead)
-- 10:30 - 10:50 [Database Indexes](#Database-Indexes)
+- 10:10 - 10:30 [My Year as a Tech Lead](#my-year-as-a-tech-lead)
+- 10:30 - 10:50 [Database Indexes](#database-indexes)
 - 10:50 - 11:00 Lightning Talks
   - Google Calendar Recurrence Rules - Tonu
   - Changes to the Code-People Google Calendar - Chris
@@ -39,4 +39,4 @@ Tony Thomas - Academic Support Resources
 
 ### Database Indexes
 Brad Carlson - OIT
-> Why to use them? How to figure out which columns to index? Database/platform specific concerns "gotcha"s, anti-patterns, or things to avoid.
+> Why use them? How to figure out which columns to index? Database and platform specific concerns "gotcha"s, anti-patterns, or things to avoid.
