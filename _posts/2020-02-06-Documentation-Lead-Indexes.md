@@ -2,7 +2,7 @@
 layout: post
 title: "Documentation, Tech Lead, Database Indexes"
 date: 2020-02-06 09:30
-categories: meetings
+categories: upcoming
 ---
 
 ## Meta:
@@ -14,13 +14,13 @@ categories: meetings
 ## Agenda:
 
 - 9:30 - Introductions
-- 9:35 - 10:00 [Creating Public Documentation with VuePress](#Creating-Public-Documentation-with-VuePress)
-- 10:00 - 10:10 Break
+- 9:35 - 10:05 [Creating Public Documentation with VuePress](#Creating-Public-Documentation-with-VuePress)
+- 10:05 - 10:10 Break
 - 10:10 - 10:30 [My Year as a Tech Lead](#My-Year-as-a-Tech-Lead)
 - 10:30 - 10:50 [Database Indexes](#Database-Indexes)
-- 10:45 - 11:00 Lightning Talks
-  - Google Calendar Recurrance Rules - Tonu
-  - Changing the code-people Google Calendar - Chris
+- 10:50 - 11:00 Lightning Talks
+  - Google Calendar Recurrence Rules - Tonu
+  - Changes to the Code-People Google Calendar - Chris
   - _Bring Your Own!_
 
 As always, join us after the meeting for lunch!
@@ -28,7 +28,7 @@ As always, join us after the meeting for lunch!
 ## Talk Descriptions:
 
 ### Creating Public Documentation with VuePress
-Colin McFadden - CLA Latis 
+Colin McFadden - CLA LATIS 
 > VuePress allows you to create easy-to-navigate, SEO-friendly documentation using markdown, which can be hosted through GitHub Pages.  This allows your documentation to exist within your GitHub repo and allows for crowd-sourcing documentation.    In this presentation, we’ll look at the pros and cons of VuePress, and walk through the process for creating new documentation.
 
 ### My Year as a Tech Lead
