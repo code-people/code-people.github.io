@@ -2,7 +2,7 @@
 layout: post
 title: "Happy Hour"
 date: 2020-01-02 16:00
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
