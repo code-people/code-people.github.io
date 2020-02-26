@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Documentation, Tech Lead, Database Indexes"
+title: "Documentation, Tech Lead"
 date: 2020-02-06 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
