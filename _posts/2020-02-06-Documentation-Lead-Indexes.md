@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Documentation, Tech Lead, Database Indexes"
+title: "Documentation, Tech Lead"
 date: 2020-02-06 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
@@ -17,7 +17,7 @@ categories: upcoming
 - 9:35 - 10:05 [Creating Public Documentation with VuePress](#creating-public-documentation-with-vuepress)
 - 10:05 - 10:10 Break
 - 10:10 - 10:30 [My Year as a Tech Lead](#my-year-as-a-tech-lead)
-- 10:30 - 10:50 [Database Indexes](#database-indexes)
+- ~~10:30 - 10:50 Database Indexes~~(moved to March 2020)
 - 10:50 - 11:00 Lightning Talks
   - Google Calendar Recurrence Rules - Tonu
   - Changes to the Code-People Google Calendar - Chris
@@ -36,7 +36,3 @@ Tony Thomas - Academic Support Resources
 > What does "Tech Lead" mean? It's a vague title and definitions vary.
 
 > I spent a year as the tech lead on a project and I was asked to define what I thought that role meant. This talk would focus on lessons learned during that year. I'll tell the story of what I think my role as tech lead was and draw on books and resources I found helpful along the way.
-
-### Database Indexes
-Brad Carlson - OIT
-> Why use them? How to figure out which columns to index? Database and platform specific concerns "gotcha"s, anti-patterns, or things to avoid.
