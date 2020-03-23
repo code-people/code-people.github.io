@@ -3,6 +3,7 @@ layout: post
 title: "Deploy Java, UIS Security Standards"
 date: 2019-11-07 09:30
 categories: meetings
+recording_url: https://drive.google.com/open?id=1vJlyyuaqUuOcDX_N7ClnR7fC2nFARn2v
 ---
 
 ## Meta:
