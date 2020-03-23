@@ -3,6 +3,7 @@ layout: post
 title: "Data Storage Update and Screen Reader Demo"
 date: 2019-12-05 09:30
 categories: meetings
+recording_url: https://drive.google.com/a/umn.edu/file/d/1_RLZ0r-1njjE6rEHg_axrnoBm3wxIuhq/view?usp=sharing
 ---
 
 ## Meta:

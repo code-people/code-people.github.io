@@ -3,6 +3,7 @@ layout: post
 title: "Documentation, Tech Lead"
 date: 2020-02-06 09:30
 categories: meetings
+recording_url: https://drive.google.com/a/umn.edu/file/d/14X17VZpNMa7aN0m26hyyndU_A832Fl6y/view?usp=sharing
 ---
 
 ## Meta:

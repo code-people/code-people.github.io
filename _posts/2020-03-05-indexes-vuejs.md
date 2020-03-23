@@ -2,7 +2,8 @@
 layout: post
 title: "Database Indexes, Building a VueJs Front End"
 date: 2020-03-05 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://drive.google.com/a/umn.edu/file/d/18ZipnzKpv1piSQ3ALKRi255aI-6A2YQ4/view?usp=sharing
 ---
 
 ## Meta:
