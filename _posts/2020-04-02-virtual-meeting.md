@@ -19,8 +19,6 @@ categories: upcoming
   - Update on Git Workshop - Chris
   - _Bring Your Own!_
 
-As always, join us after the meeting for lunch!
-
 ## Talk Descriptions:
 
 ### Open Discussion on COVID-19
