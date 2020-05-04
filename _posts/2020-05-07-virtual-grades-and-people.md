@@ -23,7 +23,7 @@ categories: upcoming
 
 ## Talk Descriptions:
 
-### Sending Grades to Peoplesoft
+### Sending Grades from Canvas to Peoplesoft
 ATSS
 
 > The Academic Technology Tools team will demonstrate the "Send Grades to PeopleSoft" application in Canvas that allows permitted users to send their final grades from the Canvas gradebook to their grade roster in PeopleSoft Faculty Center.
