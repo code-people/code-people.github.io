@@ -2,7 +2,7 @@
 layout: post
 title: "Virtual Open Discussion"
 date: 2020-04-02 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
