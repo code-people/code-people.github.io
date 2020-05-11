@@ -2,7 +2,8 @@
 layout: post
 title: "Sending Grades and People over Processes"
 date: 2020-05-07 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://drive.google.com/file/d/1UEOAKCr1suYURbpImtiSRRlh6LYJVVRb/view?usp=sharing
 ---
 
 ## Meta:
