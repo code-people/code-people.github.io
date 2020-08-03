@@ -2,7 +2,7 @@
 layout: post
 title: "Virtual Happy Hour"
 date: 2020-07-02 15:30
-categories: past
+categories: meetings
 ---
 
 ## Meta:
