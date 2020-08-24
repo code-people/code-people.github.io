@@ -2,7 +2,8 @@
 layout: post
 title: "Virtual Meeting"
 date: 2020-08-06 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://drive.google.com/file/d/1iZwCv9Dc-QwZfwB6uzeYoSJJncsdPTF9/view?usp=sharing
 ---
 
 ## Meta:
