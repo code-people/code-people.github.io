@@ -18,8 +18,8 @@ categories: upcoming
 - Jupyter Hub
 - Lightning Talks
   - Sept Workshop on Kubernetes - Travis and Colin
-  - mkdocs AzDevOps Pipeline - Peter B.
-  - Working Group on Sustainable Practices in Tech - Amy Drayer
+  - mkdocs AzDevOps Pipeline - Peter Bajurny
+  - Sustainability in Tech - Amy Drayer
 
 
 ## Talk Descriptions:
