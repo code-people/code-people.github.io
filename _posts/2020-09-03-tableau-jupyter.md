@@ -19,8 +19,6 @@ categories: upcoming
 - Lightning Talks
   - Sept Workshop on Kubernetes - Travis and Colin
   - mkdocs AzDevOps Pipeline - Peter Bajurny
-  - Sustainability in Tech - Amy Drayer
-
 
 ## Talk Descriptions:
 
@@ -31,3 +29,5 @@ Ruth Dodson and Eduardo Chavez Herrera, OIT
 
 ### Jupyter Hub
 Bradley Kaufman, CSOM
+
+>A discussion about how the Carlson School is is using cloud-managed Kubernetes to provide analytics tools to students for their coursework.
