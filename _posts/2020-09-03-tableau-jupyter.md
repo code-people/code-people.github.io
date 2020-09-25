@@ -2,7 +2,7 @@
 layout: post
 title: "Tableau, Jupyter Hub, and More"
 date: 2020-09-03 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
