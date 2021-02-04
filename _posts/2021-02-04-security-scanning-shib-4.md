@@ -29,6 +29,6 @@ Chris Herdt, UIS
 
 
 ### What's New With the Shib IDP
-Chris Bongaarts and Paul Rubinis, OIT
+Chris Bongaarts and Paul Rubenis, OIT
 
 > Chris Bongaarts and Paul Rubinis from OIT will go over new features from the Shibboleth 4 upgrade
