@@ -2,7 +2,8 @@
 layout: post
 title: "Web Security Scanning and Shibboleth 4"
 date: 2021-02-04 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_8tj8c8go
 ---
 
 ## Meta:
