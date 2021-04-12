@@ -2,7 +2,8 @@
 layout: post
 title: "Oracle JSON API"
 date: 2021-04-01 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_spo3cai9
 ---
 
 ## Meta:
