@@ -2,7 +2,7 @@
 layout: post
 title: "Hiring with CARE"
 date: 2021-10-07 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
