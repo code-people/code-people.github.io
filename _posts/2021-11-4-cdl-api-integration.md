@@ -33,4 +33,4 @@ Davin Lageroos
 
 ### Storing terraform state files in the cloud
 
-Travis Sobeck
+Travis Sobeck [Slide Deck](https://z.umn.edu/79oi)
