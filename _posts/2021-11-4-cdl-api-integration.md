@@ -29,7 +29,7 @@ Dan Wagner, Phani Kandalam [Slide Deck](https://z.umn.edu/Integration)
 
 ### The CODIES 2021. The long-awaited results from the Code People Academy of Arts and Sciences are here.
 
-Davin Lageroos
+Davin Lageroos [Slide Deck](https://z.umn.edu/codies_2021)
 
 ### Storing terraform state files in the cloud
 
