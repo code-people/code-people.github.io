@@ -2,8 +2,8 @@
 layout: post
 title: "Hiring with CARE"
 date: 2021-10-07 09:30
-recording_url: https://mediaspace.umn.edu/media/t/1_5rmqd3np
 categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_5rmqd3np
 ---
 
 ## Meta:
