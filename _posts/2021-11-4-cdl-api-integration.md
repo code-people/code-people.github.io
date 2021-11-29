@@ -2,7 +2,7 @@
 layout: post
 title: "OIT Integration team talks CDL and APIs"
 date: 2021-11-04 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
