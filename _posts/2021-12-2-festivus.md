@@ -2,7 +2,8 @@
 layout: post
 title: "Festivus"
 date: 2021-12-02 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_l5sz1fmx
 ---
 
 ## Meta:
