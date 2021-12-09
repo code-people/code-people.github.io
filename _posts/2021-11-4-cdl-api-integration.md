@@ -3,6 +3,7 @@ layout: post
 title: "OIT Integration team talks CDL and APIs"
 date: 2021-11-04 09:30
 categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_6xqnjd5f
 ---
 
 ## Meta:
