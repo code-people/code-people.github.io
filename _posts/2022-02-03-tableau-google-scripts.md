@@ -14,8 +14,8 @@ categories: upcoming
 ## Agenda:
 
 - 9:30 - 9:35 Introductions
-- 9:35 - 10:00 [Tableau Prep as an ETL tool](#Tableau-Prep-as-an-ETL-tool)
-- 10:00 - 10:25 [Web Applications with Google Apps Script](#Web-applications-with-Google-Apps-Script)
+- 9:35 - 10:00 Tableau Prep as an ETL tool
+- 10:00 - 10:25 Web Applications with Google Apps Script
 - 10:25 - 11:00 Scheduled Lightning Talks
   - Getting Started with the Common Data Layer API - Tonu Mikk
   - AWX - Travis Sobeck
