@@ -2,7 +2,8 @@
 layout: post
 title: "Tableau Prep and Web sites with Google Apps Script"
 date: 2022-02-03 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_t7vgqo6j
 ---
 
 ## Meta:
