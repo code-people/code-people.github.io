@@ -24,7 +24,7 @@ categories: upcoming
 ### Development Environment Discussion
 
 With the multiple discussions on tech people slack about docker desktop licensing,
-it seemed like a good time to talk about development environments. Some idead to
+it seemed like a good time to talk about development environments. Some ideas to
 think about:
 
 How do you manage your development enviroment and project dependencies?
