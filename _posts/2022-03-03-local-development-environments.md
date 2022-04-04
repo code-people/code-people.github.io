@@ -2,7 +2,7 @@
 layout: post
 title: "Development Environments"
 date: 2022-03-03 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
