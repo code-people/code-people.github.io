@@ -3,6 +3,7 @@ layout: post
 title: "Development Environments"
 date: 2022-03-03 09:30
 categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_zlwu1r4i
 ---
 
 ## Meta:
