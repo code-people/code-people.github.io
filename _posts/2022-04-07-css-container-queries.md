@@ -2,7 +2,8 @@
 layout: post
 title: "CSS Container Queries"
 date: 2022-04-07 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_sdt47duk
 ---
 
 ## Meta:
