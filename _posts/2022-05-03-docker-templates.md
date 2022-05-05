@@ -14,7 +14,7 @@ categories: upcoming
 ## Agenda:
 
 - 9:30 - 9:35 Introductions
-- 9:35 Docker - How to construct a Dockerfile - Travis Sobeck
+- 9:35 Docker - [How to construct a Dockerfile](https://docs.google.com/presentation/d/1vbaOFW97qHD-4Tl1nXLSiJY1soidkwU83UtDHeUk8Qs/edit?usp=sharing) - Travis Sobeck
 - Lightning Talks
   - Common Data Layer API calls with Javascript - Tonu Mikk 
   -   - _Bring Your Own!_
