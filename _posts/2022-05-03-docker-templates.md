@@ -2,7 +2,8 @@
 layout: post
 title: "Docker - How to construct a Dockerfile"
 date: 2022-05-03 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_6iby6rff
 ---
 
 ## Meta:
