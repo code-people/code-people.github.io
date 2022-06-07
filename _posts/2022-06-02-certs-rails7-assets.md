@@ -2,7 +2,8 @@
 layout: post
 title: "SSL Certificates, More SSL Certificates, and Javascript in Rails 7"
 date: 2022-06-02 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_seijxs1u
 ---
 
 ## Meta:
