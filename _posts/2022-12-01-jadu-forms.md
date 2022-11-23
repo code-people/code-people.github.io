@@ -17,7 +17,8 @@ recording_url:
 - 9:30-10:10 Introduction to Jadu forms
 - 10:10-10:15 Break
 - 10:15-10:35 Jadu forms from the designer perspective
-- 10:35-11:00 Lightning talks
+- 10:35-10:45 PopeTech web accessibility checking tool
+- 10:45-11:00 Lightning talks
 
 ## Talk Descriptions:
 
@@ -28,6 +29,10 @@ The main features of Jadu forms and workflows including a demo. How to get start
 ### Jadu forms from the designer perspective- Tonu Mikk (DRC), Brian Hanson (CSE)
 
 Tonu and Brian share their experience working with Jadu forms and Jadu workflow
+
+### PopeTech web accessibility checking tool - John Starr (OIT)
+
+The main features of the PopeTech web accessibility checking tool
 
 ### Lightning talks
 - Welcome Luke Kudryashov
