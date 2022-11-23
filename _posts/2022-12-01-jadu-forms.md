@@ -14,13 +14,16 @@ recording_url:
 
 ## Agenda:
 
-- 9:30-11:00 Code People Monthly Meeting
+- 9:30-10:10 Introduction to Jadu forms
+- 10:10-10:15 Break
+- 10:15-10:35 Jadu forms from the designer perspective
+- 10:35-11:00 Lightning talks
 
 ## Talk Descriptions:
 
 ### Introduction to Jadu forms (XFP) and Jadu workflow (CXM) - Kari Sweeney (OIT)
 
-The main features of Jadu forms and workflows. How to get started.
+The main features of Jadu forms and workflows including a demo. How to get started.
 
 ### Jadu forms from the designer perspective- Tonu Mikk (DRC), Brian Hanson (CSE)
 
