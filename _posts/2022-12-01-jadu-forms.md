@@ -28,12 +28,12 @@ The main features of Jadu forms and workflows including a demo. How to get start
 
 ### Jadu forms from the designer perspective- Tonu Mikk (DRC), Brian Hanson (CSE)
 
-Tonu and Brian share their experience working with Jadu forms and Jadu workflow
+Tonu and Brian share their experience working with Jadu forms and Jadu workflow.
 
 ### PopeTech web accessibility checking tool - John Starr (OIT)
 
-The main features of the PopeTech web accessibility checking tool
+The main features of the PopeTech web accessibility checking tool.
 
 ### Lightning talks
-- Welcome Luke Kudryashov
+- Welcome Luke Kudryashov - Senior Digital Accessibility Analyst at the DRC
 - Bring your own ...
