@@ -2,8 +2,8 @@
 layout: post
 title: "Jadu Forms"
 date: 2022-12-01 09:30
-categories: upcoming
-recording_url: 
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_ged2hwvw
 ---
 
 ## Meta:
