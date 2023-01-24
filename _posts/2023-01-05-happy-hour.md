@@ -2,7 +2,7 @@
 layout: post
 title:  "Code People Happy Hour!"
 date:   2023-01-15 15:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
