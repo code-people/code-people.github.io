@@ -21,7 +21,7 @@ categories: upcoming
 
 ### Ansible Tower - OIT
 
-New Ansible Tower Service from OIT. Travis Sobeck with presenters Colin McFadden, JackBrown, Clem Smith, and Katherine Spalding. 
+New Ansible Tower Service from OIT. Travis Sobeck with presenters Colin McFadden, Jack Brown, Clem Smith, and Katherine Spalding. 
 
 ### Lightning talks
 - Bring your own ...
