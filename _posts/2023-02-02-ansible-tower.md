@@ -2,7 +2,8 @@
 layout: post
 title: "Ansible Tower"
 date: 2023-02-02 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_wei388w9
 ---
 
 ## Meta:
