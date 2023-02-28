@@ -15,7 +15,7 @@ categories: upcoming
 
 - 9:30-10:00 Unit Testing (with thanks to Sandi Metz)
 - 10:00-10:05 Break
-- 10:05-10:35 Goldydoc
+- 10:05-10:35 Goldydoc [Slide Deck](https://drive.google.com/drive/folders/1y-u7L_dUNFFT_GOf3AXCajXuwA76EE_b?usp=share_link)
 - 10:35-11:00 Lightning talks
 
 ## Talk Descriptions:
