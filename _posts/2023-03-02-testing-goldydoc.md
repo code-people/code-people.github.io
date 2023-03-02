@@ -13,9 +13,9 @@ categories: upcoming
 
 ## Agenda:
 
-- 9:30-10:00 Unit Testing (with thanks to Sandi Metz)
+- 9:30-10:00 Unit Testing (with thanks to Sandi Metz) ([Slide Deck](https://docs.google.com/presentation/d/1Ac-uUMb8lUHJ-z3kjUVPQ41enYlWlqhdNRoG9tA5jLY/edit#slide=id.g208ff012fdf_0_66))
 - 10:00-10:05 Break
-- 10:05-10:35 Goldydoc [Slide Deck](https://drive.google.com/drive/folders/1y-u7L_dUNFFT_GOf3AXCajXuwA76EE_b?usp=share_link)
+- 10:05-10:35 Goldydoc ([Slide Deck](https://drive.google.com/drive/folders/1y-u7L_dUNFFT_GOf3AXCajXuwA76EE_b?usp=share_link))
 - 10:35-11:00 Lightning talks
 
 ## Talk Descriptions:
