@@ -2,7 +2,8 @@
 layout: post
 title: "Unit Testing and Goldydoc"
 date: 2023-03-02 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_4nyrjsk6
 ---
 
 ## Meta:
