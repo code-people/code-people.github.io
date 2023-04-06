@@ -13,9 +13,9 @@ categories: upcoming
 
 ## Agenda:
 
-- 9:30-10:00 Managing your portfolio when your team shrinks (Tony T)
+- 9:30-10:00 Managing your portfolio when your team shrinks (Tony Thomas)
 - 10:00-10:05 Break
-- 10:05-10:20 Turbo: JS for the JS-averse Andrew R Seroff (aseroff)
+- 10:05-10:20 Turbo: JS for the JS-averse Andrew R Seroff (aseroff) [Slide Deck](https://z.umn.edu/turbojspres)
 - 10:20-11:00 Lightning talks
 
 ### Lightning talks
