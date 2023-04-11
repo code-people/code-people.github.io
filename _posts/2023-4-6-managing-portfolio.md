@@ -2,7 +2,8 @@
 layout: post
 title: "Managing a Portfolio when your team shrinks"
 date: 2023-04-06 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_3h6er9cg
 ---
 
 ## Meta:
