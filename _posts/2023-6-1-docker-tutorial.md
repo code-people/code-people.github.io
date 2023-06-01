@@ -19,7 +19,7 @@ categories: upcoming
 
 ## Tutorial Description:
 
-A directed tutorial from https://www.docker.com/101-tutorial/ using https://live.play-with-docker.com.  One of the Code People committee members will be leading the tutorial, but everyone will be able to follow along using the cloud-based https://live.play-with-docker.com.  However, before using the site, you need to have a Docker login and password.  You can create a Docker account here: https://hub.docker.com/signup
+A [directed tutorial](https://www.docker.com/101-tutorial/) using [play with docker](https://live.play-with-docker.com).  One of the Code People committee members will be leading the tutorial, but everyone will be able to follow along using the cloud-based [play with docker](https://live.play-with-docker.com).  However, before using the site, you need to have a Docker login and password.  You can create a Docker account here: https://hub.docker.com/signup
 
 We also will be hosting Docker breakout rooms for discussion on advanced Docker topics for those people who are already experienced Docker users.  We are looking for suggestions for the breakout room topics.  What Docker topics are you interested in discussing with other CodePeople attendees?  Please share them in the Tech People slack in the #code-people channel!
 
