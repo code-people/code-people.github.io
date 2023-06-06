@@ -10,4 +10,3 @@ categories: upcoming
 - Location: [Malcolm Yards](https://goo.gl/maps/YpDYgcP97y8emHNq8)
 - Day: Thursday, July 6th
 - Time: 4:00 pm
-- Cal link
