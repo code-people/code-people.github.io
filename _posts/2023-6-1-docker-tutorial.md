@@ -2,7 +2,8 @@
 layout: post
 title: "Docker Tutorial"
 date: 2023-06-01 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_67k04tqg
 ---
 
 ## Meta:
@@ -13,7 +14,7 @@ categories: upcoming
 
 ## Agenda:
 
-- 9:30 - 10:40 Docker Tutorial, with breakout rooms for advanced discussion topics
+- 9:30 - 10:40 Docker Tutorial, with breakout rooms for advanced discussion topics [Docker alternatives breakout discussion recording](https://mediaspace.umn.edu/media/t/1_f44j71mp)
 - 10:40 - 10:50 Summary of discussion from breakout rooms
 - 10:50 - 11:00 lightning talks
 
