@@ -1,5 +1,5 @@
 ---
-layout: upcomming
+layout: upcoming
 title: "Grouper architecture and management"
 date: 2023-08-03 09:30
 categories: meetings
