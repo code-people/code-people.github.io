@@ -14,7 +14,7 @@ recording_url:
 
 ## Agenda:
 
-- 9:30 - 10:40 Grouper architecture and management - Magdalena Cruz
+- 9:30 - 10:40 Grouper architecture and management - Jordan Dunn, Sudheer Singidi, Angel Fancher
 - 10:40 - 11:00 lightning talks
 
 
