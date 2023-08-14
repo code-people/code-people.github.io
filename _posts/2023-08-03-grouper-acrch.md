@@ -3,7 +3,7 @@ layout: post
 title: "Grouper architecture and management"
 date: 2023-08-03 09:30
 categories: meetings
-recording_url: https://mediaspace.umn.edu/edit/1_by4ybnk7
+recording_url: https://mediaspace.umn.edu/media/t/1_by4ybnk7
 ---
 
 ## Meta:
