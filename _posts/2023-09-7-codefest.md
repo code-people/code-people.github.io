@@ -2,7 +2,7 @@
 layout: post
 title: "Campus Codefest"
 date: 2023-08-17/18
-categories: upcoming
+categories: meetings
 ---
 
 We are pleased to announce the return of [Campus Codefest](https://tech-people.umn.edu/campus-codefest-2023) on its ten year anniversary!
