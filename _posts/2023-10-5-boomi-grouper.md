@@ -18,4 +18,5 @@ categories: upcoming
 
 ### Lightning talks
 - Code People Committee recruitment & talk ideas - Shawn Isenhart
+- Vault POC update - Agnes Dinger
 - Bring your own ...
