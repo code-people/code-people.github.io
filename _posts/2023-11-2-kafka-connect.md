@@ -2,7 +2,8 @@
 layout: post
 title: "Kafka Connect"
 date: 2023-11-02 09:30
-categories: upcoming
+categories: meetings
+
 ---
 
 ## Meta:
