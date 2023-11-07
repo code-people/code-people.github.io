@@ -3,7 +3,7 @@ layout: post
 title: "Kafka Connect"
 date: 2023-11-02 09:30
 categories: meetings
-
+recording_url: https://mediaspace.umn.edu/media/t/1_6nl3r05v
 ---
 
 ## Meta:
