@@ -2,7 +2,8 @@
 layout: post
 title: "AT Tools' Ansible, Testing in Production"
 date: 2023-12-07 09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_qw3yqyed
 ---
 
 ## Meta:
