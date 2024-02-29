@@ -14,7 +14,12 @@ categories: upcoming
 ## No February meeting
 
 ## March Meeting Agenda:
-- TBA
+- Splunk Logging - Ian Whitney
+- Traefik/Docker in production - Nate Morse
+Lightning Talks:
+- GA on public Github - Travis Sobeck
+- Campus Code Fest 2024 - Shawn Isenhart
+- Shib Auth Gem - Davin Lagerroos
 
 ## April Meeting - Pair Programming 
 - Discussions in breakout sessions
