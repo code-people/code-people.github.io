@@ -11,8 +11,6 @@ categories: upcoming
 - Day: Thursday, March 7th
 - Time: 9:30
 
-## No February meeting
-
 ## March Meeting Agenda:
 - Splunk Logging - Ian Whitney
 - Traefik/Docker in production - Nate Morse
