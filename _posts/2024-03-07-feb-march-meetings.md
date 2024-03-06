@@ -15,7 +15,7 @@ categories: upcoming
 - 9:30-10:00 Splunk Logging - Ian Whitney
 - 10:00-10:30 Traefik/Docker in production - Nate Morse
 - 10:30-11:00 Lightning Talks:
-    - GA on public Github - Travis Sobeck
+    - [GA on public Github](https://docs.google.com/presentation/d/1SAOfgULOD26C3NCjaQOaOySX0rlhfnHat1dlle8M5r4) - Travis Sobeck
     - Campus Code Fest 2024 - Shawn Isenhart
     - Centralized Secrets Management Platform RFP status update - Agnes Dinger
 
