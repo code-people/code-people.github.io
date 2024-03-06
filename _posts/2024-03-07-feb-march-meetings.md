@@ -17,7 +17,7 @@ categories: upcoming
 - 10:30-11:00 Lightning Talks:
     - GA on public Github - Travis Sobeck
     - Campus Code Fest 2024 - Shawn Isenhart
-    - Shib Auth Gem - Davin Lagerroos
+    - Centralized Secrets Management Platform RFP status update - Agnes Dinger
 
 ## April Meeting - Pair Programming 
 - Discussions in breakout sessions
