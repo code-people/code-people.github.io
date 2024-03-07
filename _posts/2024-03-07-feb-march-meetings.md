@@ -12,7 +12,7 @@ categories: upcoming
 - Time: 9:30
 
 ## March Meeting Agenda:
-- 9:30-10:00 Splunk Logging - Ian Whitney
+- 9:30-10:00 Splunk Logging - Ian Whitney [Presentation Slides](https://z.umn.edu/splunk_data_presentation)
 - 10:00-10:30 Traefik/Docker in production - Nate Morse
 - 10:30-11:00 Lightning Talks:
     - [GA on public Github](https://docs.google.com/presentation/d/1SAOfgULOD26C3NCjaQOaOySX0rlhfnHat1dlle8M5r4) - Travis Sobeck
