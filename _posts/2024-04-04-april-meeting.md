@@ -1,0 +1,22 @@
+---
+layout: post
+title: "April 2024 Meeting"
+date: 2024-04-04 09:30
+categories: upcoming
+---
+
+## Meta:
+
+- Location: [Zoom](https://z.umn.edu/cpmstream)
+- Day: Thursday, April 4th
+- Time: 9:30
+
+## April Meeting Agenda:
+- 9:30-10:00 Accessibility Tooling for Ruby on Rails - Joe Thor
+- 10:00-10:30 RHEL9 Management Features and Changes - Carter Kindley
+- 10:30-11:00 Lightning Talks:
+    - Campus Code Fest 2024: https://z.umn.edu/ccf24 - Shawn Isenhart
+
+## May Meeting - Pair Programming
+- Discussions in breakout sessions
+- Bring thoughts, questions, ideas, experience
