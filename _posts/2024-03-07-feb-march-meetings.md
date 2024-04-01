@@ -2,7 +2,7 @@
 layout: post
 title: "March 2024 Meeting"
 date: 2024-03-07 09:30
-categories: upcoming
+categories: meetings
 ---
 
 ## Meta:
