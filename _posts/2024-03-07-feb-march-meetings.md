@@ -3,6 +3,7 @@ layout: post
 title: "March 2024 Meeting"
 date: 2024-03-07 09:30
 categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_c63qm34z
 ---
 
 ## Meta:
