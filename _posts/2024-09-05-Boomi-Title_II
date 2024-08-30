@@ -14,8 +14,8 @@ recording_url:
 
 ## Agenda:
 
-- 9:30 - 10:15 Road to Accessibility: the New DOJ Title II and the U 
-- 10:15 - 10:50 Introduction to Boomi
+- 9:30 - 10:15 Road to Accessibility: the New DOJ Title II and the U - Khaled Musa, Luke Kudryashov (ODA)
+- 10:15 - 10:50 Introduction to Boomi - Tonu Mikk (DRC)
 - 10:50 - 11:00 lightning talks
 
 ## Tutorial Description:
@@ -28,8 +28,9 @@ Most importantly, we will share what the university has done in preparation to d
 including Pope Tech and Editoria11y, to help you raise awareness in your college or department.
 
 - Introduction to Boomi
-The presentation includes the following topics
-What is Boomi
+Boomi is the centrally supported, cloud-based data integration development tool for the University of Minnesota. Teams utilize Boomi to develop and deploy data 
+integration solutions that support the needs of the applications and/or business processes that they are responsible for. The presentation includes the following topics
+
 3 steps to getting started with Boomi
 10 steps to getting a process to production
 Monitoring the process in production
