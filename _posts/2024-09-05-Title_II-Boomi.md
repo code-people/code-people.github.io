@@ -18,7 +18,7 @@ recording_url:
 - 10:15 - 10:50 Introduction to Boomi - Tonu Mikk (DRC)
 - 10:50 - 11:00 lightning talks
 
-## Tutorial Description:
+## Talk Descriptions:
 
 ### Road to Accessibility: the New DOJ Title II and the U 
 Join members of the Office for Digital Accessibility (ODA) for an overview of the new ADA Title II rule changes and their implications for the University community.
