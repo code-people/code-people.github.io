@@ -2,8 +2,8 @@
 layout: post
 title: "Title II ruling, Introduction to Boomi"
 date: 2024-09-05 09:30
-categories: upcoming
-recording_url: 
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_l0ljo3u3
 ---
 
 ## Meta:
