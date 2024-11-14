@@ -2,7 +2,8 @@
 layout: post
 title: "Github Actions, HST Accessibility Day, Immutability for Elegant Code  "
 date: 2024-11-07  09:30
-categories: upcoming
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_msbk4kc4 
 ---
 
 ## Meta:
