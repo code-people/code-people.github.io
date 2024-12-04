@@ -18,7 +18,7 @@ categories: meetings
 
 ## Talk Descriptions:
 
-### Introduction and Best Practices Github Actions  
+### Policy Office Case Study of Making Website Accessible 
 Title 2 requirements will require an ambitious approach from website contributors and developers. Using Pope Tech and Drupal Module Editoria11y to fix accessibility issues is a start. Common issues that should be considered for a manual test plan.
 
 ## Lightning talks
