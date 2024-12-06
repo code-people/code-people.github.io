@@ -2,7 +2,8 @@
 layout: post
 title: "Policy Office Case Study of Making Website Accessible "
 date: 2024-12-05  09:30
-categories: upcoming
+categories: meetings
+recording_URL: https://mediaspace.umn.edu/media/t/1_fmjykmbk
 ---
 
 ## Meta:
