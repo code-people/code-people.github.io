@@ -17,6 +17,7 @@ recording_url:
 - 9:35-09:55 - [Quantum Computing - where are we at](https://docs.google.com/presentation/d/1zO4NvEoeGYdujG8tTO2pKtaaaerdGvTRgkjSqW8YIe8/edit?usp=sharing)? - Cosmin Harjan
 - 10:00-10:30 - Lightning Talks
   - Devex (Amanda Shook): Intro to [Ansible Automation Pplatform 2.5](https://docs.google.com/presentation/d/185Pr5neioftBOJin3dHKG-JIdJg-mKuoHeRYNywSP_w/edit?usp=sharing)
+  - [oBomi process that resizes UCard images written by ChatGPT](https://docs.google.com/presentation/d/11PMHezJ5uv6SNtE1dMB-HbjrFIzTfYUN6wNPOPac2HY/edit?usp=sharing) -- Tonu Mikk
   - More Open Conversation around AI
 
 ## Talk Descriptions:
