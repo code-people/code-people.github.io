@@ -2,7 +2,7 @@
 layout: post
 title: "Quantum Computing - where are we at?"
 date: 2025-03-06  09:30
-categories: meeting
+categories: meetingw
 recording_url: https://mediaspace.umn.edu/media/t/1_ja6c265y
 ---
 
