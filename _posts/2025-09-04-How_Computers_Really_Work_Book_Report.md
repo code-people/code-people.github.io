@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Learning to program for independent research in the Social Sciences & Custom Terraform Provider Development"
+title: "How Computers Really Work Book Report and Vault"
 date: 2025-09-04  09:30
 categories: upcoming
-recording_url: https://mediaspace.umn.edu/media/t/1_rpj7x2gx
+recording_url: 
 ---
 
 ## Meta:
