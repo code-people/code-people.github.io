@@ -14,7 +14,7 @@ recording_url:
 
 ## Agenda:
 
-- 9:30-9:50 - How Computers Really Work Book Report - Martha Megarry
+- 9:30 - 9:50 - How Computers Really Work Book Report - Martha Megarry
 - 9:50 - 10:20 - SSH Key Management with Hashicorp Vault - Travis Sobeck
 - 10:20 - 10:40 - HashiCorp Vault Panel Discussion, Facilitated by Joe Thor
 - 10:40 - 11:00 - Lightning talks
