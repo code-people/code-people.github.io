@@ -2,8 +2,8 @@
 layout: post
 title: "How Computers Really Work Book Report and Vault"
 date: 2025-09-04  09:30
-categories: upcoming
-recording_url: 
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_szx8yi0m
 ---
 
 ## Meta:
