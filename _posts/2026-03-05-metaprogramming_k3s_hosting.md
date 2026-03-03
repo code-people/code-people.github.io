@@ -15,5 +15,6 @@ recording_url:
 ## Agenda:
 
 - 9:30 - 9:40 Introductions
-- 9:40 - 10:00 - Metaprogramming in Ruby - Shawn Isenhart
-- 10:00 - 11:00 - K3S on Hosting Provisioned RHEL 9 vms via Ansible/AAP - Li Dai
+- 9:40 - 10:10 - Metaprogramming in Ruby - Shawn Isenhart
+- 10:10 - 10:30 - K3S on Hosting Provisioned RHEL 9 vms via Ansible/AAP - Li Dai
+- 10:30 - 10:40 - Lightning talks
