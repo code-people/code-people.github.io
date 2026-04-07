@@ -2,7 +2,7 @@
 layout: post
 title: "Metaprogramming in Ruby and K3S hosting"
 date: 2026-03-05  09:30
-categories: upcoming
+categories: meetings
 recording_url: https://mediaspace.umn.edu/media/t/1_gssxi1qn
 ---
 
