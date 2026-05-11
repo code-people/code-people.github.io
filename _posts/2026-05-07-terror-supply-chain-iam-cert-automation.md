@@ -2,8 +2,8 @@
 layout: post
 title: "SSL Certificate Automation & Terror in the Supply Chain"
 date: 2026-05-07  09:30
-categories: upcoming
-recording_url:
+categories: meeting
+recording_url: https://mediaspace.umn.edu/media/t/1_ex5w3cwq
 ---
 
 ## Meta:
