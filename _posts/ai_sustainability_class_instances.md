@@ -2,7 +2,7 @@
 layout: post
 title: "Sustainability & AI and Building a Class Meeting Instance API with Boomi"
 date: 2026-06-04  09:30
-categories: meetings
+categories: upcoming
 recording_url: 
 ---
 
