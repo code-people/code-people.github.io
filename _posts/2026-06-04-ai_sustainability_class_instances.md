@@ -2,8 +2,8 @@
 layout: post
 title: "Sustainability & AI and Building a Class Meeting Instance API with Boomi"
 date: 2026-06-04  09:30
-categories: upcoming
-recording_url: 
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_04w9dnga
 ---
 
 ## Meta:
