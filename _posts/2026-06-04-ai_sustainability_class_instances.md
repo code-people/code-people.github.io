@@ -14,7 +14,7 @@ recording_url:
 
 ## Agenda:
 
-- 9:30 - 9:40 Introductions
+- 9:30 - 9:35 Introductions
 - 9:35 - 10:25 - Sustainability & AI - Shane Stennes - Chief Sustainability Officer for the University
 - 10:25 - 10:55 - Building a Class Meeting Instance API with Boomi - Tonu Mikk - Office for Equity and Diversity [Slide Deck](https://z.umn.edu/classinstanceapi)
 - 10:55 - 11:00 - Lightning talks
